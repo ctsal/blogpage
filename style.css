@@ -1,0 +1,23 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+ 	font-size: 15px;
+ 	border: 10px solid #BDC3C7;
+ 	padding: 10px;
+}
+
+.one {
+	border-left: 3px solid #BDC3C7;
+	padding: 5px;
+}
+
+.date {
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #3498DB;
+	letter-spacing: 2px;
+}
+
+h2 {
+	color: #2C3E50;
+	font-weight: 700;
+}
